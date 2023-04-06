@@ -50,5 +50,5 @@ https://github.com/Dokukin1/github/blob/main/.gitignore
 
 .https://github.com/Dokukin1/github/blob/main/test.sh
 ---
-.https://github.com/Dokukin1/github/commits?author=segro1213
+.https://github.com/Dokukin1/github.git
 ---
