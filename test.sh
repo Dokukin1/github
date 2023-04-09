@@ -1,4 +1,7 @@
-#branch dev,  commit 1
-#branch dev,  commit 2
-#branch dev,  commit 3
-
+Изменение 3-1
+Изменение 3-2
+Изменение4
+Изменение 3-3
+Изменение 3-4
+Слияние dev и main
+Изменение4
